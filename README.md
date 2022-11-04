@@ -1,6 +1,9 @@
 # Api Insee
 
 Install requests package
+```bash
+python -m pip install requests
+```
 
 Install fastApi with
 
